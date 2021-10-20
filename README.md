@@ -4,7 +4,7 @@
 
 Ce projet a pour but recréer l'algorithme CSP pour faciliter la détection de différents mouvements dans un signal eeg.
 
-Les enregistrements proviennent : https://doi.org/10.13026/C28G6P.
+Source des données: https://doi.org/10.13026/C28G6P.
 
 ## Installation
 
